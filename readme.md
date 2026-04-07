@@ -46,9 +46,12 @@ Identified rows with empty or null critical fields for data quality.
 ### 5. Check Payment vs Allowed Charge
 Flagged records where payment exceeded the allowed amount.
 
+<img width="1178" height="262" alt="image" src="https://github.com/user-attachments/assets/d1482a18-9491-4a88-a86b-098f446efec7" />
+
 ### 6. Detect Allowable Charge Anomalies
 Calculated the average allowable charge per procedure code and flagged records where the allowable charge was more than 50% higher than the treatment average. This helps identify potential billing inconsistencies or outliers.
 
+<img width="1318" height="280" alt="image" src="https://github.com/user-attachments/assets/d2a1da55-d4d9-43a6-a273-3cda05f92e43" />
 
 ## Next Steps
 ### A. Investigate root causes 
