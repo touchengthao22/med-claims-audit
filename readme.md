@@ -40,8 +40,12 @@ Isolated the key columns for streamlined analysis.
 ### 3. Remove Duplicates
 Ensured each claim record is unique to prevent double counting.
 
+<img width="866" height="379" alt="image" src="https://github.com/user-attachments/assets/7920e5e6-a2b4-4c71-859a-74b499b64cbe" />
+
 ### 4. Check for Missing/Blank Data
 Identified rows with empty or null critical fields for data quality.
+
+<img width="1187" height="283" alt="image" src="https://github.com/user-attachments/assets/dddbef1d-92d7-4b91-adef-32adc9dbe786" />
 
 ### 5. Check Payment vs Allowed Charge
 Flagged records where payment exceeded the allowed amount.
