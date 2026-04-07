@@ -48,3 +48,11 @@ Flagged records where payment exceeded the allowed amount.
 
 ### 6. Detect Allowable Charge Anomalies
 Calculated the average allowable charge per procedure code and flagged records where the allowable charge was more than 50% higher than the treatment average. This helps identify potential billing inconsistencies or outliers.
+
+
+## Next Steps
+### 1. Review flagged claims – Confirm that payment or allowable charge anomalies are accurate.
+### 2. Investigate root causes – Determine if anomalies are due to data entry errors, coding mistakes, or unusual billing practices.
+### 3. Communicate with relevant personnel – Share the flagged claims with the billing or compliance team for corrective action.
+### 4. Document findings – Record anomalies and resolutions for audit trails and future reference.
+### 5. Update processes – Recommend any data validation or monitoring improvements to reduce similar anomalies in future claims.
